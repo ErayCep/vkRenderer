@@ -1,7 +1,7 @@
 # Result
 ![My_Image](img/result.png)
 
-# vulkan-cube
+# vkRenderer
 Very simple Vulkan 3D Renderer.
 
 # Usage
